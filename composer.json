@@ -1,0 +1,19 @@
+{
+    "name": "leinc/minichan-mysql",
+    "description": "A minimal mysql framework.",
+    "type": "lib",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Leinc\\MinichanMysql\\": "lib/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Niel Vincent Cano"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {}
+}
