@@ -1,6 +1,7 @@
 <?php
+declare(strict_types=1);
 
-namespace Leinc\MinichanMysql\Exceptions;
+namespace MinichanMysql\Exceptions;
 use InvalidArgumentException;
 
 class InvalidWhereException {

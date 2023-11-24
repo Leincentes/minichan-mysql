@@ -1,14 +1,14 @@
 <?php
 declare(strict_types=1);
 
-namespace Leinc\MinichanMysql\Command;
+namespace MinichanMysql\Command;
 use InvalidArgumentException;
-use Leinc\MinichanMysql\Config\Config;
-use Leinc\MinichanMysql\Exceptions\InvalidTableArgumentException;
-use Leinc\MinichanMysql\Exceptions\InvalidTableException;
-use Leinc\MinichanMysql\Exceptions\InvalidWhereException;
-use Leinc\MinichanMysql\Exceptions\NullArgumentException;
-use Leinc\MinichanMysql\Interface\IStatements;
+use MinichanMysql\Config\Config;
+use MinichanMysql\Exceptions\InvalidTableArgumentException;
+use MinichanMysql\Exceptions\InvalidTableException;
+use MinichanMysql\Exceptions\InvalidWhereException;
+use MinichanMysql\Exceptions\NullArgumentException;
+use MinichanMysql\Interface\IStatements;
 use PDO;
 use PDOException;
 use PDOStatement;

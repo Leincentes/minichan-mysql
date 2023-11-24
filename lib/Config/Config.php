@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Leinc\MinichanMysql\Config;
+namespace MinichanMysql\Config;
 
 class Config {
     /**
