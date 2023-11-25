@@ -4,3 +4,4 @@ vendor
 
 # testing files
 index.php
+.gitignore
