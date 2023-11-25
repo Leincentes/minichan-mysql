@@ -1,6 +1,11 @@
 # MiniMysql
 A minimal PHP database MYSQL framework.
 
+# Installation
+```bash
+
+```
+
 # Main Features
 - Supports transaction callback operations
 - Support for split - sheet callback processing data
