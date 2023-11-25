@@ -3,7 +3,7 @@ A minimal PHP database MYSQL framework.
 
 # Installation
 ```bash
-
+composer require leinc/minichan-mysql
 ```
 
 # Main Features
