@@ -1,5 +1,5 @@
 # MiniMysql
-A minimal PHP database MYSQL framework
+A minimal PHP database MYSQL framework.
 
 # Main Features
 - Supports transaction callback operations
@@ -19,10 +19,9 @@ A minimal PHP database MYSQL framework
 # Usage
 
 ```php
-<?php
 
 declare(strict_types=1);
-use Leinc\MinichanMysql\MiniMysql;
+use MinichanMysql\MiniMysql;
 require_once 'vendor/autoload.php';
 
 // Config and connect server

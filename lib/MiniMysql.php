@@ -1,8 +1,8 @@
 <?php
 declare(strict_types=1);
 
-namespace Leinc\MinichanMysql;
-use Leinc\MinichanMysql\Command\Statements;
+namespace MinichanMysql;
+use MinichanMysql\Command\Statements;
 use PDO;
 use PDOException;
 
