@@ -1,5 +1,7 @@
 <?php
 
+include_once 'vendor/autoload.php';
+
 use MinichanMysql\MiniMysql;
 use PHPUnit\Framework\TestCase;
 
